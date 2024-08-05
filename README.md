@@ -1,4 +1,5 @@
 # Wireless Power Transfer - CAPSTONE Project
+![WhatsApp Image 2024-08-05 at 20 47 46_10204884](https://github.com/user-attachments/assets/5495943a-a398-43e7-8adc-f6aa76c80092)
 This is repository for a Wireless Power Transfer. I have completed this project in semester 6 as an assignment for the CAPSTONE course. In this repository there are three PCB board that I design using KiCad 7.0. The boards are 12V Fullbridge Inverter, transmitter-board, and receiver-board. 
 ## Important notes !!!
 This repository file management maybe kinda messy. But you can find 12V Fullbridge inside the directory:
